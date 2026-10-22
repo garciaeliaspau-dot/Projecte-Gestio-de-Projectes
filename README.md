@@ -18,9 +18,9 @@ El nostre projecte consisteix a millorar la gestió dels residus al campus de la
 - Organitzar el treball amb un tauler Kanban a GitHub.
 
 ## 4. Distribució dels rols
-- **Integrant 1:** Coordinació i planificació del projecte.
-- **Integrant 2:** Desenvolupament de la pàgina web.
-- **Integrant 3:** Recerca d'informació i continguts.
-- **Integrant 4:** Disseny i desenvolupament del prototip.
+- **Daniel:** Coordinació i planificació del projecte.
+- **Bru:** Desenvolupament de la pàgina web.
+- **Pau:** Recerca d'informació i continguts.
+
 
 Tots els membres col·laboraran en les diferents fases del projecte.
